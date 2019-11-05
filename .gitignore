@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/SpanMemoryPipelines/InteropConsole/BenchmarkDotNet.Artifacts.old/results
+/SpanMemoryPipelines/NativeLoader/Release-x86/NativeLoader.tlog
